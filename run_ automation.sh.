@@ -1,0 +1,21 @@
+#!/bin/bash
+
+# 1. Create the CSV Header (Column Names)
+echo "Name,Email,GitHub_Username,Area_of_Interest" > results.csv
+
+# 2. Run the Bash Script (Musa Ali)
+bash Musa.sh | paste -sd "," - >> results.csv
+
+# 3. Run the R Script (Hassan Malam Auwal)
+Rscript Hassan.R | paste -sd "," - >> results.csv
+
+# 4. Run the Perl Script (Fadila Hassaini Kupgai)
+perl Fadila.pl | paste -sd "," - >> results.csv
+
+# 5. Run the C++ Script (Istifanus Irimiya)
+# Compiles the code first, then runs it
+g++ Istifanus.cpp -o istifanus_exec
+./istifanus_exec | paste -sd "," - >> results.csv
+rm istifanus_exec
+
+echo "Process Complete! Check the results.csv file for the output."
