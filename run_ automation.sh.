@@ -1,4 +1,4 @@
-#!/bin/bash
+!/bin/bash
 
 # 1. header
 echo "Name,Email,GitHub_Username,Area_of_Interest" > results.csv
