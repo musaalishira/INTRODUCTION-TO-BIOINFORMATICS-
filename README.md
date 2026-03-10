@@ -9,7 +9,8 @@ Introduction to Bioinformatics – Group 8 Documentation
    
 Bioinformatics is a field that combines biology, computer science, mathematics, and statistics to analyze biological data such as DNA, RNA, and protein sequences. It helps researchers understand genetic information, study diseases, and develop new treatments. Bioinformatics is widely used in genomics, proteomics, and computational biology.
 
-  Description of the Assignment
+Description of the Assignment
+  
 This assignment was given to Group 8 to introduce students to the basic concepts of bioinformatics and collaborative tools used in research. The group used GitHub for project documentation and collaboration and Slack for communication among members. Each member contributed their GitHub username, Slack username, and area of interest in bioinformatics.
 
  List of Group Members
@@ -51,17 +52,16 @@ This assignment was given to Group 8 to introduce students to the basic concepts
 5. @mamanhinal
 
 
-   
-7. Each Member’s Area of Interest in Bioinformatics
+
    
     Name/Area of Interest
    
-1. Musa Ali/Genomics
+ 1. Musa Ali/Genomics
 
-2. Hassan Malam AUWAL/Proteomic
+ 2. Hassan Malam AUWAL/Proteomic
+ 
+ 3. Fadila Hussaini Kupgai/Sequence Analysis
 
-3. Fadila Hussaini Kupgai/Sequence Analysis
+ 4. Irimiya Istifanus/Structural Bioinformaticc
 
-4. Irimiya Istifanus/Structural Bioinformaticc
-
-5. Maryam Aliyu Muhammad/Computational Biology
+ 5. Maryam Aliyu Muhammad/Computational Biology
